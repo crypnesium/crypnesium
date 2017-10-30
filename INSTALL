@@ -1,0 +1,9 @@
+Building Crypnesium
+
+See doc/readme-qt.rst for instructions on building Crypnesium QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Crypnesium.
+
+See doc/build-*.txt for instructions on building crypnesiumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Crypnesium.
